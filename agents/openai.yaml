@@ -1,0 +1,4 @@
+interface:
+  display_name: "BreakLD 地图分析"
+  short_description: "严谨拆解多人关卡，并在确认后生成可复制的 Word 报告"
+  default_prompt: "使用 $break-ld-analysis，基于严格调研、理论来源与可追溯示意图分析这个多人地图案例；内容与图例准备好后先向我确认，再生成可整篇复制的 Word 报告。"
